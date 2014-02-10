@@ -1,0 +1,12 @@
+C:\Facturacion\FacturacionPlataforma\bin\Debug\FacturacionPlataforma.dll.config
+C:\Facturacion\FacturacionPlataforma\bin\Debug\FacturacionPlataforma.dll
+C:\Facturacion\FacturacionPlataforma\bin\Debug\FacturacionPlataforma.pdb
+C:\Facturacion\FacturacionPlataforma\bin\Debug\DataLayer.dll
+C:\Facturacion\FacturacionPlataforma\bin\Debug\DataLayer.pdb
+C:\Facturacion\FacturacionPlataforma\obj\Debug\FacturacionPlataforma.csprojResolveAssemblyReference.cache
+C:\Facturacion\FacturacionPlataforma\obj\Debug\FacturacionPlataforma.dll
+C:\Facturacion\FacturacionPlataforma\obj\Debug\FacturacionPlataforma.pdb
+C:\Facturacion\FacturacionPlataforma\bin\Debug\FacturacionPlataforma.tlb
+C:\Facturacion\FacturacionPlataforma\bin\Debug\Impresion.dll
+C:\Facturacion\FacturacionPlataforma\bin\Debug\IDEALSoftware.VpeProfessional.dll
+C:\Facturacion\FacturacionPlataforma\bin\Debug\Impresion.pdb

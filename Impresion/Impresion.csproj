@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{752B1D49-4B67-4B81-A7CA-4234258C70D9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Impresion</RootNamespace>
+    <AssemblyName>Impresion</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IDEALSoftware.VpeProfessional, Version=6.1.1.0, Culture=neutral, PublicKeyToken=cd7e57f4b5d80cd1, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\IDEALSoftware.VpeProfessional.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Impresion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="lib\IDEALSoftware.VpeProfessional.dll" />
+    <Content Include="lib\itextsharp-all-5.4.5\itextsharp-dll-core\iTextSharp.xml" />
+    <Content Include="lib\itextsharp-all-5.4.5\NOTICE.txt" />
+    <Content Include="lib\itextsharp.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lib\itextsharp-all-5.4.5.ZIP" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-dll-core-wo_Drawing.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-dll-core.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-dll-pdfa.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-dll-xtra.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-src-core.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-src-pdfa.zip" />
+    <None Include="lib\itextsharp-all-5.4.5\itextsharp-src-xtra.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj">
+      <Project>{AF1EEACA-F14B-47C2-89AE-1BCA1176F8C5}</Project>
+      <Name>DataLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

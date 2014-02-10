@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 12.625" name="Facturacion">
+  <DataContextMoniker Name="/FacturacionDataContext" />
+  <nestedChildShapes>
+    <classShape Id="baf4692b-5192-4780-a505-0086c7b57921" absoluteBounds="0.5, 0.625, 1.75, 6.0015283203125">
+      <DataClassMoniker Name="/FacturacionDataContext/Historicos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d9f2470-0501-4fb4-bb0f-1053c44a92ff" absoluteBounds="0.515, 1.085, 1.7200000000000002, 5.4415283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7b017ce-3c99-4d80-baab-acb0531d0b80" absoluteBounds="3.125, 0.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/FacturacionDataContext/Puntos_Ventas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="db99ed96-dcb5-4c6a-8684-e1a5f66a9bd2" absoluteBounds="3.14, 0.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="158dcd1f-ea8f-4625-b902-ee62b18ac2c3" absoluteBounds="0.875, 9.25, 2, 1.1939925130208333">
+      <DataClassMoniker Name="/FacturacionDataContext/Codigos_Iva" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b22e0c08-1036-428d-8de7-0b85b70da822" absoluteBounds="0.89000000000000012, 9.71, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9c6eb200-94e1-4ffc-ac37-585c99d75d04" absoluteBounds="3.125, 3.125, 2, 9.2706526692708326">
+      <DataClassMoniker Name="/FacturacionDataContext/Contratos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e5f9568c-53fb-44da-8bb3-a884fcb2e7c3" absoluteBounds="3.14, 3.585, 1.9700000000000002, 8.7106526692708321" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9aeca61b-86b7-41d9-9984-544cb9400df6" absoluteBounds="6, 2, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/FacturacionDataContext/Facturas" />
+      <nestedChildShapes>
+        <elementListCompartment Id="872ce17e-9067-4375-be36-2d7a47e63141" absoluteBounds="6.015, 2.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

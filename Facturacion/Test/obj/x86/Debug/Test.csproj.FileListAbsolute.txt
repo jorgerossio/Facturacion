@@ -1,0 +1,17 @@
+C:\Facturacion\Facturacion\Test\bin\Debug\Test.exe
+C:\Facturacion\Facturacion\Test\bin\Debug\Test.pdb
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.exe
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.pdb
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Facturacion\Facturacion\Test\obj\x86\Debug\Test.Form1.resources
+C:\Facturacion\Facturacion\Test\bin\Debug\DataLayer.dll
+C:\Facturacion\Facturacion\Test\bin\Debug\DataLayer.pdb
+C:\Facturacion\Facturacion\Test\bin\Debug\WsAfip.dll
+C:\Facturacion\Facturacion\Test\bin\Debug\WsAfip.pdb
+C:\Facturacion\Facturacion\Test\bin\Debug\WsAfip.xml
+C:\Facturacion\Facturacion\Test\bin\Debug\FacturacionPlataforma.dll
+C:\Facturacion\Facturacion\Test\bin\Debug\FacturacionPlataforma.pdb
+C:\Facturacion\Facturacion\Test\bin\Debug\Impresion.dll
+C:\Facturacion\Facturacion\Test\bin\Debug\Impresion.pdb

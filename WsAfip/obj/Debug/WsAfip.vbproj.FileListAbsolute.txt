@@ -1,0 +1,8 @@
+C:\Facturacion\WsAfip\bin\Debug\WsAfip.dll
+C:\Facturacion\WsAfip\bin\Debug\WsAfip.pdb
+C:\Facturacion\WsAfip\bin\Debug\WsAfip.xml
+C:\Facturacion\WsAfip\obj\Debug\WsAfip.Resources.resources
+C:\Facturacion\WsAfip\obj\Debug\WsAfip.vbproj.GenerateResource.Cache
+C:\Facturacion\WsAfip\obj\Debug\WsAfip.dll
+C:\Facturacion\WsAfip\obj\Debug\WsAfip.xml
+C:\Facturacion\WsAfip\obj\Debug\WsAfip.pdb

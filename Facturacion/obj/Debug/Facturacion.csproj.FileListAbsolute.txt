@@ -1,0 +1,6 @@
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.Form1.resources
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.csproj.GenerateResource.Cache
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.dll
+C:\Facturacion\Facturacion\bin\Debug\Facturacion.pdb
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.dll
+C:\Facturacion\Facturacion\obj\Debug\Facturacion.pdb

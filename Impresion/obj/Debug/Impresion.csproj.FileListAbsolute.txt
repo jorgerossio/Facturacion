@@ -1,0 +1,6 @@
+C:\Facturacion\Impresion\bin\Debug\Impresion.dll
+C:\Facturacion\Impresion\bin\Debug\Impresion.pdb
+C:\Facturacion\Impresion\bin\Debug\IDEALSoftware.VpeProfessional.dll
+C:\Facturacion\Impresion\obj\Debug\Impresion.dll
+C:\Facturacion\Impresion\obj\Debug\Impresion.pdb
+C:\Facturacion\Impresion\obj\Debug\Impresion.csprojResolveAssemblyReference.cache
